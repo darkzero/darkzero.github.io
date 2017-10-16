@@ -31,6 +31,15 @@ theme: minima
 plugins:
   - jekyll-feed
 
+# Social
+social:
+    weibo: darkzero
+    github: darkzero
+    twitter: darkzero_mk2
+    flickr: darkzero_mk2
+    instagram: darkzeromk2
+    mail: darkero@darkzero.me
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.

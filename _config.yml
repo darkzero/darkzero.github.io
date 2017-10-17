@@ -14,15 +14,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: darkzero
-subtitle: subtitle test
+subtitle: 半吊子且懒惰成性的码农
 email: darkzero@darkzero.me
-welcome_message: Welcome to my site!
+welcome_message: 欢迎来到darkzero的个人站
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Everybody finds love. In the end.
+  全ての終わりに愛があるなら
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://darkzero.me" # the base hostname & protocol for your site, e.g. http://example.com
+creator: darkzero
 
 #permalink: /:year/:month/:title/
 
@@ -39,7 +39,7 @@ open_button:
 
 # Navigation buttons in the front page.
 nav:
-    - {title: WP Blog, description: 我的Wordpress Blog, url: 'http://blog.darkzero.me'}
+    - {title: WP博客, description: 我的 Wordpress 博客, url: 'http://blog.darkzero.me'}
     - {title: Projects, description: My Projects, url: '/#projects'}
     # - {title: Another Button, description: A button, url: 'http://example.com'}
 

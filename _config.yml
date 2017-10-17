@@ -25,7 +25,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://darkzero.me" # the base hostname & protocol for your site, e.g. http://example.com
 creator: darkzero
 
-#permalink: /:year/:month/:title/
+permalink: /:year/:month/:title/
 
 # Format
 highlighter: rouge

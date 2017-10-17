@@ -22,7 +22,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://darkzero.me" # the base hostname & protocol for your site, e.g. http://example.com
 
 #permalink: /:year/:month/:title/
 
@@ -33,19 +33,20 @@ highlighter: rouge
 cover_color: blue
 
 # The blog button should not be removed.
-blog_button:
-    title: Blog
-    description: Visit blog
+open_button:
+    title: Open
+    description: 打开我的github Blog
 
 # Navigation buttons in the front page.
 nav:
-    - {title: Projects, description: My Projects, url: 'http://project.onevcat.com'}
+    - {title: WP Blog, description: 我的Wordpress Blog, url: 'http://blog.darkzero.me'}
+    - {title: Projects, description: My Projects, url: '/#projects'}
     # - {title: Another Button, description: A button, url: 'http://example.com'}
 
-# # Pagination
-# gems: [jekyll-paginate]
-# paginate: 10
-# paginate_path: "page/:num/"
+# Pagination
+plugins: [jekyll-paginate]
+paginate: 10
+paginate_path: "page/:num/"
 
 # Build settings
 markdown: kramdown

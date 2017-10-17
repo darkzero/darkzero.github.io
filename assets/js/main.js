@@ -1,9 +1,10 @@
 $(document).ready(function() {
 
+  console.log(location.pathname.length);
   $('a.open_button').click(function() {
     // If already in blog, return early without animate overlay panel again.
     $('li.open_button').addClass('hidden');
-    if ((window.location.hash && location.hash == "#blog") || location.pathname == "/about/") {
+    if ((window.location.hash && location.hash == "#blog") || location.pathname.length > 1) {
       $('li.open_button').addClass('hidden');
       return;
     }
@@ -18,7 +19,7 @@ $(document).ready(function() {
     }
   });
 
-  if ((window.location.hash && location.hash == "#blog") || location.pathname == "/about/") {
+  if ((window.location.hash && location.hash == "#blog") || location.pathname.length > 1) {
     $('.panel-cover').addClass('panel-cover--collapsed');
     $('.main-post-list').removeClass('hidden');
     $('li.open_button').addClass('hidden');

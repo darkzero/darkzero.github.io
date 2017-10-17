@@ -18,7 +18,8 @@ subtitle: 半吊子且懒惰成性的码农
 email: darkzero@darkzero.me
 welcome_message: 欢迎来到darkzero的个人站
 description: >- # this means to ignore newlines until "baseurl:"
-  Everybody finds love. In the end.
+  Everybody finds love. <br/>
+  In the end.<br/>
   全ての終わりに愛があるなら
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://darkzero.me" # the base hostname & protocol for your site, e.g. http://example.com

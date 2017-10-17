@@ -1,18 +1,28 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
+### 关于我
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+现居日本，iOS程序员。
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+#### 使用的语言
+ * 汉语
+ * 日语
+ * 英语
+ * Objective-C
+ * Swift
+ * Python
+ * Ruby
+ * Java
+ * C#
+ * C++
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+---
 
+#### 爱好
+ * 摄影
+ * 游戏
+ * 插画 - 技术非常一般
 
-[jekyll-organization]: https://github.com/jekyll

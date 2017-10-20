@@ -15,9 +15,9 @@ date:   2017-10-20 17:52:00 +0900
 
 - 方法一 使用Package Control组件安装: 
 
-> 用快捷方式 ``ctrl + (`)`` 或者在菜单里选择 `View > Show Console` 打开命令行窗口。
-
-> 然后在命令行里输入以下命令 : 
+    用快捷方式 ``ctrl + (`)`` 或者在菜单里选择 `View > Show Console` 打开命令行窗口。
+    
+    然后在命令行里输入以下命令 : 
 
 ```
 import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)
@@ -25,11 +25,11 @@ import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe0
 
 - 方法二 直接安装
 
-> 参考官网右边的手动安装方法～
+&nbsp;&nbsp;&nbsp;&nbsp;参考官网右边的手动安装方法～
 
-> 下载安装包解压缩到Packages目录（菜单 > Preferences > Browse Packages）
+&nbsp;&nbsp;&nbsp;&nbsp;下载安装包解压缩到Packages目录（菜单 > Preferences > Browse Packages）
 
-> 一般在下面这个目录
+&nbsp;&nbsp;&nbsp;&nbsp;一般在下面这个目录
 
 ```
 用户目录/Library/Application Support/Sublime Text 3/Packages
@@ -39,22 +39,22 @@ import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe0
 
 * 安装插件
 
-> 快捷键 Command+Shift+P 或者在 菜单里选择 Preferences > Package Control 打开 Package Control 窗口。
+&nbsp;&nbsp;&nbsp;&nbsp;快捷键 Command+Shift+P 或者在 菜单里选择 Preferences > Package Control 打开 Package Control 窗口。
 
-> 选择 Install Package，然后在搜索框里输入你想要的插件名字就能看到插件列表，点击你想要安装的插件即可。
+&nbsp;&nbsp;&nbsp;&nbsp;选择 Install Package，然后在搜索框里输入你想要的插件名字就能看到插件列表，点击你想要安装的插件即可。
 
-> 有一部分插件安装后可能需要重启 Sublime。
+&nbsp;&nbsp;&nbsp;&nbsp;有一部分插件安装后可能需要重启 Sublime。
 
 ### 我常用的插件
 
 * **Sublime Terminal**
 
-> Command + Shift + T 能在当前编辑文件的路径下打开Terminal窗口
+&nbsp;&nbsp;&nbsp;&nbsp;Command + Shift + T 能在当前编辑文件的路径下打开Terminal窗口
 
 * **OmniMarkupPreviewer**
 
-> Markdown 预览用
+&nbsp;&nbsp;&nbsp;&nbsp;Markdown 预览用
 
-> 用 Command + Shift + T 打开浏览器窗口预览正在编辑的Markdown文件。
+&nbsp;&nbsp;&nbsp;&nbsp;用 Command + Shift + T 打开浏览器窗口预览正在编辑的Markdown文件。
 
 [package_control_3]: https://packagecontrol.io/installation#st3

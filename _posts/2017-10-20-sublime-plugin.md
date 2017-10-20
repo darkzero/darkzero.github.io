@@ -30,6 +30,7 @@ import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe0
 > 下载安装包解压缩到Packages目录（菜单 > Preferences > Browse Packages）
 
 > 一般在下面这个目录
+
 ```
 用户目录/Library/Application Support/Sublime Text 3/Packages
 ```

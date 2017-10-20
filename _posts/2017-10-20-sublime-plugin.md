@@ -15,7 +15,7 @@ date:   2017-10-20 17:52:00 +0900
 
 - 方法一 使用Package Control组件安装: 
 
-    用快捷方式 ``ctrl + (`)`` 或者在菜单里选择 `View > Show Console` 打开命令行窗口。
+    用快捷方式 ``ctrl + \``` 或者在菜单里选择 `View > Show Console` 打开命令行窗口。
 
     然后在命令行里输入以下命令 : 
 

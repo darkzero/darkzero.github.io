@@ -11,7 +11,7 @@ date:   2017-10-20 17:52:00 +0900
 
 为了使用插件先要安装 Package Control
 
-参见：[官网的安装方法][package_control_3]
+参见：[官网的安装方法][package_control_3]{:target="_blank"}
 
 - 方法一 使用Package Control组件安装: 
 

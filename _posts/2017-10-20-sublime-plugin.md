@@ -15,7 +15,7 @@ date:   2017-10-20 17:52:00 +0900
 
 - 方法一 使用Package Control组件安装: 
 
-    用快捷方式 ``ctrl + \``` 或者在菜单里选择 `View > Show Console` 打开命令行窗口。
+    用快捷方式 ``ctrl + (`)`` 或者在菜单里选择 `View > Show Console` 打开命令行窗口。
 
     然后在命令行里输入以下命令 : 
 
@@ -35,7 +35,7 @@ import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe0
 用户目录/Library/Application Support/Sublime Text 3/Packages
 ```
 
-> 重启Sublime Text 3。如果在Perferences->package settings中看到package control这一项，则安装成功。按下Ctrl+Shift+P调出命令面板输入install 调出 Install Package 选项并回车，然后在列表中选中要安装的插件。
+> 重启Sublime Text 3。如果在 Preferences > package settings 中看到 Package Control 这一项，则安装成功。按下Ctrl+Shift+P调出命令面板输入install 调出 Install Package 选项并回车，然后在列表中选中要安装的插件。
 
 * 安装插件
 

@@ -1,0 +1,234 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "30sec token更新 播放url变化\nlive オクション\n\n19921116\n19940227\n\n10192004\n\n19940227\n\n\nmanagedObjectContext\tNSManagedObjectContext\t0x00000001c01cd2f0\nmanagedObjectContext\tNSManagedObjectContext\t0x00000001c01cd2f0\nmoc\t\t\t\t\t\tNSManagedObjectContext\t0x00000001c01cd2f0\n\nlipo -create \"Release-iphones/IJKMediaFrameworkWithSSL.framework/IJKMediaFrameworkWithSSL\" \"Release-iphonesimulator/IJKMediaFrameworkWithSSL.framework/IJKMediaFrameworkWithSSL\" -output ./IJKMediaFrameworkWithSSL\n\n===== custom modules begin =====\nregister demuxer : ijklivehook\n===== custom modules end =====\nav_version_info: ff3.3--ijk0.8.0--20170829--001\nijk_version_info: k0.8.4\nijkmp_set_inject_opaque(0x1c000a710)\nijkmp_set_inject_opaque()=void\nijkmp_set_ijkio_inject_opaque(0x1c000a710)\nijkmp_set_ijkio_inject_opaque()=void\n2017-12-05 15:41:27.320449+0900 SignalRTest[2040:783387] OK setup GL\nijkmp_ios_set_view(glView=0x129d0c890)\nijkmp_ios_set_view(glView=0x129d0c890)=void\n2017-12-05 15:41:27.339561+0900 SignalRTest[2040:783387] invalidateRenderBuffer\nijkmp_set_data_source(url=\"https://meandstars.webcdn.stream.ne.jp/www08/meandstars/171020/index.m3u8\")\nijkmp_set_data_source(url=\"https://meandstars.webcdn.stream.ne.jp/www08/meandstars/171020/index.m3u8\")=0\nijkmp_prepare_async()\n2017-12-05 15:41:27.340405+0900 SignalRTest[2040:783491] IJKSDLGLView: setupDisplay not ready\nijkmp_prepare_async()=0\n2017-12-05 15:41:27.342739+0900 SignalRTest[2040:783387] invalidateRenderBuffer\n2017-12-05 15:41:27.343578+0900 SignalRTest[2040:783491] IJKSDLGLView: setupDisplay not ready\n2017-12-05 15:41:27.363641+0900 SignalRTest[2040:783387] FFP_MSG_ERROR: 0\n2017-12-05 15:41:27.363844+0900 SignalRTest[2040:783387] [DEBUG] moviePlayBackStateDidChange\n2017-12-05 15:41:27.363868+0900 SignalRTest[2040:783387] [DEBUG] moviePlayBackFinish\n\n\n===== custom modules begin =====\nregister demuxer : ijklivehook\n===== custom modules end =====\nav_version_info: ff3.3--ijk0.8.0--20170829--001\nijk_version_info: k0.8.4\nijkmp_set_inject_opaque(0x1c00176f0)\nijkmp_set_inject_opaque()=void\nijkmp_set_ijkio_inject_opaque(0x1c00176f0)\nijkmp_set_ijkio_inject_opaque()=void\n2017-12-05 15:43:07.883936+0900 SignalRTest[2045:784290] OK setup GL\nijkmp_ios_set_view(glView=0x10482ca90)\nijkmp_ios_set_view(glView=0x10482ca90)=void\n2017-12-05 15:43:07.905006+0900 SignalRTest[2045:784290] invalidateRenderBuffer\nijkmp_set_data_source(url=\"http://devimages.apple.com/iphone/samples/bipbop/gear1/prog_index.m3u8\")\nijkmp_set_data_source(url=\"http://devimages.apple.com/iphone/samples/bipbop/gear1/prog_index.m3u8\")=0\nijkmp_prepare_async()\n2017-12-05 15:43:07.905732+0900 SignalRTest[2045:784367] IJKSDLGLView: setupDisplay not ready\nijkmp_prepare_async()=0\n2017-12-05 15:43:07.909593+0900 SignalRTest[2045:784290] invalidateRenderBuffer\n2017-12-05 15:43:07.912026+0900 SignalRTest[2045:784367] IJKSDLGLView: setupDisplay not ready\naout_open_audio()\n2017-12-05 15:43:08.698176+0900 SignalRTest[2045:784290] FFP_MSG_OPEN_INPUT:\n2017-12-05 15:43:08.698382+0900 SignalRTest[2045:784290] FFP_MSG_FIND_STREAM_INFO:\naout_pause_audio(0)\naout_pause_audio(1)\n2017-12-05 15:43:08.832120+0900 SignalRTest[2045:784290] FFP_MSG_VIDEO_DECODER_OPEN: false\n2017-12-05 15:43:08.832816+0900 SignalRTest[2045:784290] FFP_MSG_COMPONENT_OPEN:\n2017-12-05 15:43:08.877069+0900 SignalRTest[2045:784290] FFP_MSG_VIDEO_SIZE_CHANGED: 192, 144\nijkmp_get_msg: FFP_MSG_PREPARED\n2017-12-05 15:43:08.877808+0900 SignalRTest[2045:784290] FFP_MSG_SAR_CHANGED: 0, 1\n2017-12-05 15:43:08.877949+0900 SignalRTest[2045:784290] FFP_MSG_PREPARED:",
+			"settings":
+			{
+				"buffer_size": 3526,
+				"line_ending": "Unix",
+				"name": "30sec token更新 播放url变化"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "pack",
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 444.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/huyuhua/Solutions/darkzero/darkzero.github.io",
+		"/Users/huyuhua/Solutions/darkzero/darkzero.github.io/_posts"
+	],
+	"file_history":
+	[
+		"/Users/huyuhua/Solutions/me_and_stars/client/meandstars/Sources/iOS_Client/me&stars/Podfile",
+		"/Users/huyuhua/Solutions/me_and_stars/libs/SignalRTest/Podfile",
+		"/Users/huyuhua/Solutions/me_and_stars/libs/SignalR-ObjC/SignalR-ObjC.podspec",
+		"/Users/huyuhua/Solutions/darkzero/DZ_UIKit/.swift-version",
+		"/Users/huyuhua/Solutions/darkzero/DZ_UIKit/DZ_UIKit.podspec",
+		"/Users/huyuhua/Solutions/darkzero/DZ_UIKit/Example/Podfile",
+		"/Users/huyuhua/Solutions/me_and_stars/me&star_Test_RTMP/basic.ini",
+		"/Users/huyuhua/Solutions/me_and_stars/me&star_Test_RTMP/service.json",
+		"/Users/huyuhua/Solutions/me_and_stars/libs/SignalR-ObjC/Example/Podfile",
+		"/Users/huyuhua/Solutions/darkzero/DZPopupMessageView/.swift-version",
+		"/Users/huyuhua/Solutions/darkzero/DZPopupMessageView/.gitignore",
+		"/Users/huyuhua/Solutions/darkzero/DZ_UIKit/.gitignore",
+		"/Users/huyuhua/Solutions/darkzero/DZFiveStarBar/.gitignore",
+		"/Users/huyuhua/Solutions/darkzero/MiniProjects/.gitignore",
+		"/Users/huyuhua/Solutions/darkzero/darkzero.github.io/.gitignore",
+		"/Users/huyuhua/Solutions/darkzero/DZ_UIKit/.git/config",
+		"/Users/huyuhua/Solutions/darkzero/DZFiveStarBar/.git/config",
+		"/Users/huyuhua/Solutions/darkzero/darkzero.github.io/.git/config",
+		"/Users/huyuhua/Solutions/darkzero/MiniProjects/.git/config",
+		"/Users/huyuhua/Solutions/darkzero/darkzero.github.io/_posts/2017-10-20-sublime-plugin.md",
+		"/Users/huyuhua/Solutions/darkzero/darkzero.github.io/_sass/_base.scss"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"com.dectech.tokyo.meandstars.store.point10"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3526,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								463,
+								252
+							]
+						],
+						"settings":
+						{
+							"auto_name": "30sec token更新 播放url变化",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "darkzero.github.io.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 252.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

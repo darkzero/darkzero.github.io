@@ -55,6 +55,6 @@ import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe0
 
     Markdown 预览用
 
-    用 Command + Shift + T 打开浏览器窗口预览正在编辑的Markdown文件。
+    用 Command + Shift + O 打开浏览器窗口预览正在编辑的Markdown文件。
 
 [package_control_3]: https://packagecontrol.io/installation#st3

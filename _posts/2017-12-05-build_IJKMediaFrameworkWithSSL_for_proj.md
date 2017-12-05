@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "编译了一个支持SSL的IJKMediaFrameworkWithSSL"
-date:   2017-10-19 17:52:00 +0900
+date:   2017-12-05 18:22:00 +0900
 ---
 
 最近在做一个和视频流播放有关的项目，就想到了用IJKPlayer。
